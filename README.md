@@ -1,2 +1,2 @@
 # Shiny-dataviz
-A shiny project for some data visualisation
+Shiny application in order to display some useful informations from Game Of Throne dataset
