@@ -1,0 +1,2 @@
+
+Un onglet GOT2 : Dans cet onglet nous avons tenté de retourner des résultats plus complexes que dans le premier onglet. Le terme complexe est approprié car nous avons dû tenir compte de toutes les interactions entre les personnages. Nous avons fait en sorte que l’utilisateur puisse choisir un personnage  ( Jon Snow, Tyrion Lannsiter, Daenerys Taragryen, Sansa Stark, Cersei Lannister, Arya Stark) et qu’automatiquement après il obtienne une liste de tous les personnages avec lesquels il a interagit plus de 50 min ( nous avons fixé le seuil pour simplifier le programme). 
